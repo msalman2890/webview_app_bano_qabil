@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Github/webview_app_bano_qabil/webview_app_bano_qabil.iml" filepath="$USER_HOME$/Github/webview_app_bano_qabil/webview_app_bano_qabil.iml" />
+      <module fileurl="file://$USER_HOME$/Github/webview_app_bano_qabil/android/webview_app_bano_qabil_android.iml" filepath="$USER_HOME$/Github/webview_app_bano_qabil/android/webview_app_bano_qabil_android.iml" />
+    </modules>
+  </component>
+</project>
